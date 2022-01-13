@@ -1,0 +1,39 @@
+Algoritmo Notas
+Var
+	notas : vetor[1..5] real
+	media : real
+	i     : inteiro
+Início
+	Repita
+		Escreval("Digite a nota", i)
+		Leia(nota[i])
+		i <- i + 1
+	Até_que(i = 5)
+	
+	media <- (notas[1] + notas[2] + notas[3] + notas[4] + notas[5])/5
+	Escreval("A média foi de:", media)
+		
+	Se (media <= 4,9) Então 
+		Escreval("O aluno foi reprovado")
+	Senão
+		Se (media >= 5) E (media <= 6,9) Então
+			Escreval("O aluno está de recuperação")
+		Senão 
+			Se (media >= 7) Então
+				Escreval("O aluno foi aprovado")
+	Fim_Se
+		Fim_Se
+			Fim_Se 
+
+Fim
+
+
+
+
+
+
+
+
+
+
+
