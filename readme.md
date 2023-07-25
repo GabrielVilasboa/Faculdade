@@ -1,6 +1,6 @@
 * # Repositório da Faculdade de Engenharia de Software
 
-  Este repositório contém os projetos e atividades desenvolvidos durante o curso de Engenharia de Software na [sua instituição]. Aqui você encontrará materiais relacionados a disciplinas como:
+  Este repositório contém os projetos e atividades desenvolvidos durante o curso de Engenharia de Software na Unicesumar. Aqui você encontrará materiais relacionados a disciplinas como:
 
   - Algoritmos e Lógica de Programação
   - Cálculo Diferencial I
@@ -14,6 +14,7 @@
   - Paradigmas de Linguagem de Programação
   - Projeto, Implementação e Teste de Software
   - Sistemas Operacionais
+  - Banco de Dados I e II
 
   ## Sobre o curso
 
@@ -30,9 +31,4 @@
 
   ## Progresso
 
-  Atualmente, estou indo para o terceiro ano do curso, com previsão de conclusão em 2025. Este repositório será atualizado constantemente com novos materiais e projetos, então fique à vontade para explorá-lo e acompanhar meu progresso!
-
-  🚀  Vamos rumo ao sucesso!
-  👨‍🎓 Estou me preparando para ser um engenheiro de software.
-  📚 Aprendendo coisas novas a cada dia.
-  💻 Codando como um(a) profissional.
+  Atualmente, estou cursando o terceiro ano do curso, com previsão de conclusão em 2025. Este repositório será atualizado constantemente com novos materiais e projetos, então fique à vontade para explorá-lo e acompanhar meu progresso!
